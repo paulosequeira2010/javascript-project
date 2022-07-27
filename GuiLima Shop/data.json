@@ -1,0 +1,200 @@
+{
+    "result": [
+        {
+            "skateboards": [
+                {
+                    "id": 0,
+                    "marca": "ELEMENT BRAND",
+                    "desc": "Element Brand Trip Out Street Skate",
+                    "price": "110,00 €",
+                    "priceDiscount": 66.00,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/skateboards/1.png",
+                    "href": "#",
+                    "discount": "- 40%",
+                    "cor": "laranja"
+                },
+                {
+                    "id": 1,
+                    "marca": "GLOBE BRAND",
+                    "desc": "Globe Brand G2 On the Brink Shelter",
+                    "price": "129,95 €",
+                    "priceDiscount": 77.97,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/skateboards/2.png",
+                    "href": "#",
+                    "discount": "- 40%",
+                    "cor": "rosa"
+                },
+                {
+                    "id": 2,
+                    "marca": "GLOBE BRAND",
+                    "desc": "Globe Brand G1 Ablaze Tie Dye",
+                    "price": "109,95 €",
+                    "priceDiscount": 87.96,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/skateboards/3.png",
+                    "href": "#",
+                    "discount": "- 20%",
+                    "cor": "verde"
+                },
+                {
+                    "id": 3,
+                    "marca": "CREATURE BRAND",
+                    "desc": "Creature Skateboards Ripped Logo Micro",
+                    "price": "99,99 €",
+                    "priceDiscount": 89.99,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/skateboards/4.png",
+                    "href": "#",
+                    "discount": "- 10%",
+                    "cor": "vermelho"
+                },
+                {
+                    "id": 4,
+                    "marca": "VANS",
+                    "desc": "Skate Half Cab 92",
+                    "price": "45,00 €",
+                    "priceDiscount": 40.50,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/shoes/1.png",
+                    "href": "#",
+                    "discount": "- 10%",
+                    "cor": "vermelho"
+                },
+                {
+                    "id": 5,
+                    "marca": "NIKE",
+                    "desc": "Air Force Limited Edition 92",
+                    "price": "89,99 €",
+                    "priceDiscount": 53.99,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/shoes/2.png",
+                    "href": "#",
+                    "discount": "- 40%",
+                    "cor": "amarelo"
+                },
+                {
+                    "id": 6,
+                    "marca": "NIKE",
+                    "desc": "Air Jordan Signed 85",
+                    "price": "259,00 €",
+                    "priceDiscount": 207.2,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/shoes/3.png",
+                    "href": "#",
+                    "discount": "- 20%",
+                    "cor": "vermelho"
+                },
+                {
+                    "id": 7,
+                    "marca": "NIKE",
+                    "desc": "Original AirMax",
+                    "price": "99,99 €",
+                    "priceDiscount": 89.99,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/shoes/2.png",
+                    "href": "#",
+                    "discount": "- 10%",
+                    "cor": "amarelo"
+                },
+                {
+                    "id": 8,
+                    "marca": "SUNDAY BLUEPRINT",
+                    "desc": "Sunday Blueprint 16 bmx bike 2022",
+                    "price": "45,00",
+                    "priceDiscount": 40.50,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/bmx/1.png",
+                    "href": "#",
+                    "discount": "- 10%",
+                    "cor": "preto"
+                },
+                {
+                    "id": 9,
+                    "marca": "WETHEPEOPLE",
+                    "desc": "Wethepeople Nova 2021 bmx bike",
+                    "price": "89,99 €",
+                    "priceDiscount": 53.99,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/bmx/2.png",
+                    "href": "#",
+                    "discount": "- 40%",
+                    "cor": "amarelo"
+                },
+                {
+                    "id": 10,
+                    "marca": "SUBROSA",
+                    "desc": "Altus 16 BMX BIKE 2022",
+                    "price": "259,00 €",
+                    "priceDiscount": 207.2,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/bmx/3.png",
+                    "href": "#",
+                    "discount": "- 20%",
+                    "cor": "preto"
+                },
+                {
+                    "id": 11,
+                    "marca": "SUNDAY PRIMER",
+                    "desc": "SUNDAY PRIMER 16 BMX BIKE 2022",
+                    "price": "99,99 €",
+                    "priceDiscount": 89.99,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/bmx/4.png",
+                    "href": "#",
+                    "discount": "- 10%",
+                    "cor": "castanho"
+                },
+                {
+                    "id": 12,
+                    "marca": "SUNDAY BLUEPRINT",
+                    "desc": "Sunday Blueprint 16 bmx bike 2022",
+                    "price": "45,00 €",
+                    "priceDiscount": 40.50,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/trucks/1.png",
+                    "href": "#",
+                    "discount": "- 10%",
+                    "cor": "preto"
+                },
+                {
+                    "id": 13,
+                    "marca": "WETHEPEOPLE",
+                    "desc": "Wethepeople Nova 2021 bmx bike",
+                    "price": "89,99 €",
+                    "priceDiscount": 53.99,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/trucks/2.png",
+                    "href": "#",
+                    "discount": "- 40%",
+                    "cor": "cinza"
+                },
+                {
+                    "id": 14,
+                    "marca": "SUBROSA",
+                    "desc": "Altus 16 BMX BIKE 2022",
+                    "price": "259,00 €",
+                    "priceDiscount": 207.2,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/trucks/3.png",
+                    "href": "#",
+                    "discount": "- 20%",
+                    "cor": "vermelho"
+                },
+                {
+                    "id": 15,
+                    "marca": "SUNDAY PRIMER",
+                    "desc": "SUNDAY PRIMER 16 BMX BIKE 2022",
+                    "price": "99,99 €",
+                    "priceDiscount": 89.99,
+                    "currency": "€",
+                    "imageUrl": "/Media/products/trucks/4.png",
+                    "href": "#",
+                    "discount": "- 10%",
+                    "cor": "cinza"
+                }
+            ]
+        }
+    ]
+}
